@@ -1,0 +1,12 @@
+internet test 237
+Process : notepad , Title: keystokesimilarity - Notepad , Process Time : 3 Days, 17 Hours, 57 Minutes, 24 Seconds and 810 Milliseconds
+Process : Microsoft.Notes , Title: Title , Process Time : 2 Days, 14 Hours, 30 Minutes, 19 Seconds and 924 Milliseconds
+Process : notepad , Title: cloudinary - Notepad , Process Time : 0 Days, 0 Hours, 14 Minutes, 35 Seconds and 658 Milliseconds
+Process : cmd , Title: C:\Windows\System32\cmd.exe , Process Time : 2 Days, 14 Hours, 28 Minutes, 41 Seconds and 15 Milliseconds
+Process : SystemSettings , Title: Settings , Process Time : 3 Days, 18 Hours, 54 Minutes, 17 Seconds and 77 Milliseconds
+Process : ApplicationFrameHost , Title: Settings , Process Time : 3 Days, 18 Hours, 54 Minutes, 17 Seconds and 99 Milliseconds
+Process : Teams , Title: Chat | Microsoft Teams , Process Time : 3 Days, 18 Hours, 55 Minutes, 7 Seconds and 909 Milliseconds
+Process : Admin_SSDA , Title:   , Process Time : 0 Days, 0 Hours, 0 Minutes, 11 Seconds and 738 Milliseconds
+Process : devenv , Title: Admin_SSDA (Running) - Microsoft Visual Studio , Process Time : 0 Days, 0 Hours, 32 Minutes, 5 Seconds and 770 Milliseconds
+Process : WindowsInternal.ComposableShell.Experiences.TextInput.InputApp , Title: Microsoft Text Input Application , Process Time : 3 Days, 18 Hours, 55 Minutes, 31 Seconds and 578 Milliseconds
+Process : chrome , Title: My Drive - Google Drive - Google Chrome , Process Time : 2 Days, 18 Hours, 1 Minutes, 36 Seconds and 667 Milliseconds
